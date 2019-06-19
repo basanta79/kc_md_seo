@@ -12,5 +12,7 @@ Se puede ver la practica original en: https://github.com/basanta79/KC-MD-HTML
 
  - Corregimos en los articulos poner los H2 dentro de los articulos.
 
+ - Eliminamos uno de los menús, solod ebemos tener un menú de navegación.
+
 
  
